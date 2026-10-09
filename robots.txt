@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juguete-gato.onelixglobal.com/sitemap.xml
